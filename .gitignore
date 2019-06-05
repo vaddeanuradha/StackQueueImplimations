@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/FindMinElementO(1)/bin/Debug/netcoreapp2.1
+/.vs/Assignment5/v15/Server/sqlite3
+/FindMinElementO(1)/obj
+/FindNonRepeatingChar6/obj
+/ImpQueueWith2Stacks2/bin/Debug/netcoreapp2.1
+/ImpQueueWith2Stacks2/obj
+/ImpStackWith2Queues3/bin/Debug/netcoreapp2.1
+/ImpStackWith2Queues3/obj
+/LRUCache5/bin/Debug/netcoreapp2.1
+/LRUCache5/obj
+/PrintNGE1/bin/Debug/netcoreapp2.1
+/PrintNGE1/obj
